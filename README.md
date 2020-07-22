@@ -6,3 +6,4 @@
 - [ ] Real `README.md`
 - [ ] GitHub Actions?
 - [ ] Pentest
+- [ ] Mobile view
