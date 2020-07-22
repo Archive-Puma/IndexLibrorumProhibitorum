@@ -1,0 +1,5 @@
+RewriteEngine On
+# URL Shortener
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([A-Za-z0-9+=]{6})$ /?index=$1  [NC,L,R]
