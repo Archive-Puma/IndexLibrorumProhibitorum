@@ -1,9 +1,5 @@
-# IndexLibrorumProhibitorum
+<img src=".github/readme/logo.png" align="right" width="200">
 
-### TODO
+# Index Librorum Prohibitorum
 
-- [ ] `security.php` file
-- [ ] Real `README.md`
-- [ ] GitHub Actions?
-- [ ] Pentest
-- [ ] Mobile view
+[![Web Preview](https://img.shields.io/static/v1?label=&message=PREVIEW&color=939EBE&style=for-the-badge)](http://index.kike.wtf/)
