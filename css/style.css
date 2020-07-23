@@ -34,7 +34,7 @@ a {
 }
 
 a:hover {
-    color: #7f8ff4;
+    color: #d8b91b;
 }
 
 input {
@@ -67,5 +67,23 @@ input[type="submit"]:hover {
     transform: scale(1.1);
     background: #6a78d3;
 }
+
+/* Mobile view */
+
+@media only screen and (max-width: 800px) {
+    body {
+        background-position: 60% 0%;
+    }
+
+    .root {
+        width: 100%;
+    }
+
+    p {
+        margin-top: 2px;
+        padding: 10px;
+        background-color: #939ebe;
+    }
+  }
 
 
